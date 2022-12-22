@@ -2,6 +2,8 @@
 
 This is a test frontend for the [Mini Chat API](https://github.com/ifiokudoidiok/minichat-api) to make sure the chat feature works.
 
+Open two separate tabs and enter rooms as `ada` and `menadio` to try it out.
+
 The main frontend which is [Mini Chat FE](https://github.com/ifiokudoidiok/minichat-fe) is still a wip but can be reviewed interms of code structure and coding style
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
